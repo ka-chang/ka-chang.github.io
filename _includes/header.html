@@ -1,0 +1,24 @@
+<aside class="logo">
+
+	{% if page.url == '/index.html' or page.url == '/' %}
+		{% assign link = '/about' %}
+		{% assign prompt = 'Hi! Click to learn a bit more about me.' %}
+	{% else %}
+		{% assign link = '/' %}
+		{% assign prompt = 'Back to Index' %}
+	{% endif %}
+
+	<a href="{{ link | prepend: site.baseurl | prepend: site.url }}">
+		<img src="{{ site.logo_url }}" alt="" class="logo-avatar">
+	</a>
+	<span class="logo-prompt code">{{ prompt }}</span>
+</aside>
+<p>
+	<center><b>Katherine T. Chang</b> | 
+		<a href="http://ka-chang.github.io/portfolio">Portfolio</a> |
+		<a href="http://ka-chang.github.io/writing">Writing</a> |
+		<a href="http://ka-chang.github.io/cv">CV</a> |
+		<a href="http://ka-chang.github.io/contact">Contact</a> |
+		<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
+	</center>
+<p>
