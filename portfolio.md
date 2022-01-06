@@ -6,7 +6,7 @@ title: Portfolio
 The following Portfolio page includes original work that I am either leading or individually responsible for. Co-authored and contracted projects are not included, and are instead detailed under <a href="https://ka-chang.github.io/writing">Writing</a> and the <a href="https://ka-chang.github.io/cv">Presentation Section</a> of my CV.
 
 ### Open Source Software
-### <img src="https://github.com/ka-chang/StateLegiscraper/raw/main/doc/images/statelegiscraper_logo.png">StateLegiscraper
+### <img src="https://github.com/ka-chang/StateLegiscraper/raw/main/doc/images/logo.png" width="100">StateLegiscraper
 
 <a href="https://github.com/ka-chang/StateLegiscraper" target=_blank>StateLegiscraper</a> is a Python library that scrapes standing committee hearing data from state legislature websites and processes the data to use with popular Python NLP packages such as nltk and spaCy. 
 
@@ -19,7 +19,7 @@ The following Portfolio page includes original work that I am either leading or 
   
 </details>
 
-### <img src="https://github.com/ka-chang/OpenTranscription/raw/main/logo.png" width="100">OpenTranscription
+### <img src="https://github.com/ka-chang/OpenTranscription/raw/main/opentranscription_logo.png" width="100">OpenTranscription
 
 A friendly open source speech-to-text transcriber built for everyone. <a href="https://github.com/ka-chang/OpenTranscription" target=_blank>OpenTranscription</a> uses an open source speech-to-text engine to process audio files to text, with no fees and minimal technical expertise required.
 
