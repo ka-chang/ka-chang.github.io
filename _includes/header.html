@@ -13,9 +13,7 @@
 	</a>
 	<span class="logo-prompt code">{{ prompt }}</span>
 </aside>
-<aside class="nav">
 <p>
-	{% if page.url == '/index.html' or page.url == '/' or page.url == '/about' %}
 	<center><b>Katherine T. Chang</b> | 	
 		<a href="http://ka-chang.github.io/portfolio">Portfolio</a> |
 		<a href="http://ka-chang.github.io/writing">Writing</a> |
@@ -23,47 +21,5 @@
 		<a href="http://ka-chang.github.io/contact">Contact</a> |
 		<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
 	</center>
-	{% else %}
-	{% if page.url == '/portfolio' %}
-	<center><b>Katherine T. Chang</b> | <b>Portfolio</b> |
-		<a href="http://ka-chang.github.io/writing">Writing</a> |
-		<a href="http://ka-chang.github.io/cv">CV</a> |
-		<a href="http://ka-chang.github.io/contact">Contact</a> |
-		<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
-	</center>
-	{% else %}
-	{% if page.url == '/writing' %}
-	<center><b>Katherine T. Chang</b> | 	
-		<a href="http://ka-chang.github.io/portfolio">Portfolio</a> | <b>Writing</b> |
-		<a href="http://ka-chang.github.io/cv">CV</a> |
-		<a href="http://ka-chang.github.io/contact">Contact</a> |
-		<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
-	</center>
-	{% else %}
-	{% if page.url == '/cv' %}
-	<center><b>Katherine T. Chang</b> | 	
-		<a href="http://ka-chang.github.io/portfolio">Portfolio</a> |
-		<a href="http://ka-chang.github.io/writing">Writing</a> | <b>CV</b> |
-		<a href="http://ka-chang.github.io/contact">Contact</a> |
-		<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
-	</center>
-	{% else %}
-	{% if page.url == '/contact' %}
-	<center><b>Katherine T. Chang</b> | 	
-		<a href="http://ka-chang.github.io/portfolio">Portfolio</a> |
-		<a href="http://ka-chang.github.io/writing">Writing</a> |
-		<a href="http://ka-chang.github.io/cv">CV</a> | <b>Contact</b> |
-		<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
-	</center>
-	{% else %}
-	<center><b>Katherine T. Chang</b> | 	
-		<a href="http://ka-chang.github.io/portfolio">Portfolio</a> |
-		<a href="http://ka-chang.github.io/writing">Writing</a> |
-		<a href="http://ka-chang.github.io/cv">CV</a> |
-		<a href="http://ka-chang.github.io/contact">Contact</a> |
-		<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
-	</center>
-	{% endif %}
-
 </p>
 </aside>
