@@ -19,7 +19,7 @@ The following Portfolio page includes original work that I am either leading or 
   
 </details>
 
-### <img src="https://github.com/ka-chang/OpenTranscription/raw/main/opentranscription_logo.png" width="100">OpenTranscription
+### <img src="https://github.com/ka-chang/OpenTranscription/raw/main/docs/images/opentranscription_logo.png" width="100">OpenTranscription
 
 A friendly open source speech-to-text transcriber built for everyone. <a href="https://github.com/ka-chang/OpenTranscription" target=_blank>OpenTranscription</a> uses an open source speech-to-text engine to process audio files to text, with no fees and minimal technical expertise required.
 
