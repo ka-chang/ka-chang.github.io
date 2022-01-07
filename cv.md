@@ -59,7 +59,7 @@ title: CV
 </style>
 <p>
 Below is an abbreviated version of my CV. Please <a href="https://ka-chang.github.io/contact">contact me</a> if you'd like the complete version.
-
+</p>
 ### Education
 <p>
 PhD in Education Policy, Organizations, and Leadership, Expected 2023
