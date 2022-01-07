@@ -23,28 +23,32 @@
 		<a href="http://ka-chang.github.io/contact">Contact</a> |
 		<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
 	</center>
-	{% elif page.url == '/portfolio' %}
+	{% else %}
+	{% if page.url == '/portfolio' %}
 	<center><b>Katherine T. Chang</b> | <b>Portfolio</b> |
 		<a href="http://ka-chang.github.io/writing">Writing</a> |
 		<a href="http://ka-chang.github.io/cv">CV</a> |
 		<a href="http://ka-chang.github.io/contact">Contact</a> |
 		<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
 	</center>
-	{% elif page.url == '/writing' %}
+	{% else %}
+	{% if page.url == '/writing' %}
 	<center><b>Katherine T. Chang</b> | 	
 		<a href="http://ka-chang.github.io/portfolio">Portfolio</a> | <b>Writing</b> |
 		<a href="http://ka-chang.github.io/cv">CV</a> |
 		<a href="http://ka-chang.github.io/contact">Contact</a> |
 		<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
 	</center>
-	{% elif page.url == '/cv' %}
+	{% else %}
+	{% if page.url == '/cv' %}
 	<center><b>Katherine T. Chang</b> | 	
 		<a href="http://ka-chang.github.io/portfolio">Portfolio</a> |
 		<a href="http://ka-chang.github.io/writing">Writing</a> | <b>CV</b> |
 		<a href="http://ka-chang.github.io/contact">Contact</a> |
 		<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
 	</center>
-	{% elif page.url == '/contact' %}
+	{% else %}
+	{% if page.url == '/contact' %}
 	<center><b>Katherine T. Chang</b> | 	
 		<a href="http://ka-chang.github.io/portfolio">Portfolio</a> |
 		<a href="http://ka-chang.github.io/writing">Writing</a> |
