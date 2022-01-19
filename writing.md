@@ -3,7 +3,7 @@ layout: page
 title: null
 ---
 
-Outside of my professional and academic writing, I blog (intermittently) about  various projects and other going-ons at <a href="www.cabbages.io" target=_blank>cabbages.io</a>.
+Outside of my professional and academic writing, I blog (intermittently) about  various projects and other going-ons at <a href="https://www.cabbages.io" target=_blank>cabbages.io</a>.
 
 ### Research Articles (Peer Reviewed)
 
