@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: null
 ---
 
 ### Peer-Reviewed Articles
