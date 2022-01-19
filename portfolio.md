@@ -3,6 +3,8 @@ layout: page
 title: 
 ---
 
+---
+
 The following Portfolio page includes original work that I am either leading or individually responsible for. Co-authored and contracted projects are not included, and are instead detailed under <a href="https://ka-chang.github.io/writing">Writing</a> and the <a href="https://ka-chang.github.io/cv">Presentation</a> section of my CV.
 
 ### Open Source Software
