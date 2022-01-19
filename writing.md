@@ -3,7 +3,9 @@ layout: page
 title: null
 ---
 
-### Peer-Reviewed Articles
+Outside of my professional and academic writing, I blog (intermittently) about  various projects and other going-ons at <a href="www.cabbages.io" target=_blank>cabbages.io</a>.
+
+### Research Articles (Peer Reviewed)
 
 **Chang, K. T.** & Koebele, E. A. (2020). What drives coalitions' narrative strategy? Exploring policy narratives around school choice. *Politics & Policy, 48*(4), 618-657. [https://doi.org/10.1111/polp.12367](https://doi.org/10.1111/polp.12367)
 
