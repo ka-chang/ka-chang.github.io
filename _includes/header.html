@@ -14,20 +14,29 @@
 	<span class="logo-prompt code">{{ prompt }}</span>
 </aside>
 
-{% if page.url == '/contact' %}
-<b> ** </b>
-{% else %}
-<b> ~~ </b>	
-{% endif %}
+	{% if page.url == '/contact' or page.url == '/contact/'%}
+	<p>
+		<div align="center">
+			<b>Katherine T. Chang</b> | 	
+			<a href="http://ka-chang.github.io/portfolio">Portfolio</a> |
+			<a href="http://ka-chang.github.io/writing">Writing</a> |
+			<a href="http://ka-chang.github.io/cv">CV</a> |
+			Contact |
+			<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
+		</div>
 
-<p>
-	<div align="center">
-		<b>Katherine T. Chang</b> | 	
-		<a href="http://ka-chang.github.io/portfolio">Portfolio</a> |
-		<a href="http://ka-chang.github.io/writing">Writing</a> |
-		<a href="http://ka-chang.github.io/cv">CV</a> |
-		<a href="http://ka-chang.github.io/contact">Contact</a> |
-		<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
-	</div>
+	</p>
+	{% else %}
+	<p>
+		<div align="center">
+			<b>Katherine T. Chang</b> | 	
+			<a href="http://ka-chang.github.io/portfolio">Portfolio</a> |
+			<a href="http://ka-chang.github.io/writing">Writing</a> |
+			<a href="http://ka-chang.github.io/cv">CV</a> |
+			<a href="http://ka-chang.github.io/contact">Contact</a> |
+			<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
+		</div>
 
-</p>
+	</p>	
+	{% endif %}
+
