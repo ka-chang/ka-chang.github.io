@@ -57,8 +57,6 @@ title:
 	font-weight: 700;
 }	
 </style>
-
----
 <p>
 Below is an abbreviated version of my CV. Please <a href="https://ka-chang.github.io/contact">contact me</a> if you'd like the detailed version.
 </p>
