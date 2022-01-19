@@ -3,7 +3,8 @@ layout: page
 title: null
 ---
 
----
+Published and in review article manuscripts are available upon request.
+
 ### Research Articles (Peer Reviewed)
 
 **Chang, K. T.** & Koebele, E. A. (2020). What drives coalitions' narrative strategy? Exploring policy narratives around school choice. *Politics & Policy, 48*(4), 618-657. [https://doi.org/10.1111/polp.12367](https://doi.org/10.1111/polp.12367)
