@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: 
 ---
 [//]: # (Bar chart code adapted from https://github.com/russellgoldenberg/responsive-barchart-generator)
 <style>
