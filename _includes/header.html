@@ -21,22 +21,35 @@
 			<a href="http://ka-chang.github.io/portfolio">Portfolio</a> |
 			<a href="http://ka-chang.github.io/writing">Writing</a> |
 			<a href="http://ka-chang.github.io/cv">CV</a> |
-			Contact |
+			<b>Contact</b> |
 			<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
 		</div>
 
 	</p>
 	{% else %}
-	<p>
-		<div align="center">
-			<b>Katherine T. Chang</b> | 	
-			<a href="http://ka-chang.github.io/portfolio">Portfolio</a> |
-			<a href="http://ka-chang.github.io/writing">Writing</a> |
-			<a href="http://ka-chang.github.io/cv">CV</a> |
-			<a href="http://ka-chang.github.io/contact">Contact</a> |
-			<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
-		</div>
+		{% if page.url == '/cv' or page.url == '/cv/'%}
+		<p>
+			<div align="center">
+				<b>Katherine T. Chang</b> | 	
+				<a href="http://ka-chang.github.io/portfolio">Portfolio</a> |
+				<a href="http://ka-chang.github.io/writing">Writing</a> |
+				<b>CV</b> |
+				<a href="http://ka-chang.github.io/contact">Contact</a> |
+				<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
+			</div>
 
-	</p>	
+		</p>
+		{% else %}
+		<p>
+			<div align="center">
+				<b>Katherine T. Chang</b> | 	
+				<a href="http://ka-chang.github.io/portfolio">Portfolio</a> |
+				<a href="http://ka-chang.github.io/writing">Writing</a> |
+				<a href="http://ka-chang.github.io/cv">CV</a> |
+				<a href="http://ka-chang.github.io/contact">Contact</a> |
+				<a href="http://www.github.com/ka-chang" target=_blank>Github</a>
+			</div>
+
+		</p>	
 	{% endif %}
 
