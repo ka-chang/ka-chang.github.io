@@ -3,7 +3,7 @@ layout: page
 title: null
 ---
 
-<div color:"white">null</div>
+<body><p style="color:#FFFFFF";>null</p></body>
 
 ### Research Articles (Peer Reviewed)
 
