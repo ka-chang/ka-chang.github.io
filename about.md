@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 
 ---
 
 Katherine is a graduate student at the University of Washington, Seattle. She is a PhD candidate in Education Policy, Organizations, and Leadership at the College of Education. She is also pursuing a concurrent MPA degree in Social Policy at the the Evans School of Public Policy and Governance. Her research interests are in the politics of education reform, the politics of race in education policymaking, and cross-systems interactions between social and education policy. 
