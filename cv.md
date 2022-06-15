@@ -66,10 +66,9 @@ PhD in Education Policy, Organizations, and Leadership, Expected 2023
 <br>
 University of Washington, College of Education
 </p><p>
-MPA in Social Policy, Expected 2022
+MPA in Social Policy, 2022
 <br>University of Washington, Evans School of Public Policy and Governance
 <br>
-<i>Capstone Project:</i> Everett Housing Authority -  Identifying Communities of Opportunity
 </p><p>
 EdM in Language and Literacy, 2009
 <br>Harvard University, Graduate School of Education
@@ -120,7 +119,13 @@ BA in Liberal Studies, 2008
 	</div>
 </div>
 
-### Research Experience (Selected)
+### Professional Experience (Selected)
+<p>
+1/2022 - 6/2022: Policy Consultant
+<br>
+Everett Housing Authority
+<br>
+<i>Project</i>: <a href="https://github.com/ka-chang/eha" target=_blank>Identifying Communities of Opportunity in Everett and Snohomish County</a>
 <p>
 Summer 2021: <a href="https://escience.washington.edu/dssg/" target=_blank>Data Science for Social Good Fellow</a>
 <br>
@@ -142,9 +147,11 @@ University of Washington, Information Technology
 
 ### Conference Presentations (Selected)
 
-<b>Chang, K.</b> & Koebele, E. (2022, April). <i>From School Choice to Sage Grouse: What State Legislators’ Policy Narratives Tell Us about Policy Outcomes.</i> Paper accepted to the annual meeting of the Midwest Political Science Association, Chicago, IL.
+<b>Chang, K.</b> & Koebele, E. (2022, April). <i>From School Choice to Sage Grouse: What State Legislators’ Policy Narratives Tell Us about Policy Outcomes.</i> Paper presented to the annual meeting of the Midwest Political Science Association, Chicago, IL.
 <p>
-<b>Chang, K.</b> (2022, March). <i>Race and School Finance Reform in Washington State, 1993-2016.</i> Paper accepted to the annual meeting of the Association for Public Policy Analysis and Management, Austin, TX.
+<b>Chang, K.</b> (2022, April). <i>New Approaches to Old Political Problems: Fairness in U.S. Redistricting and Equity in Education Finance.</i> Talk presented to the University of Michigan’s Michigan Institute for Data Science 2022 Future Leaders Summit, Ann Arbor, MI.
+<p>
+<b>Chang, K.</b> (2022, March). <i>Race and School Finance Reform in Washington State, 1993-2016.</i> Paper accepted to the annual meeting of the Association for Public Policy Analysis and Management, Austin, TX. [Declined due to COVID-19 disruptions.]
 <p>
 <b>Chang, K.</b> & Karcher, H. (2021, April). <i>A Critical Policy Analysis of the Relationship Between Public Education and Public Housing.</i> Paper presented to the annual meeting of the American Education Research Association.
 <p>
