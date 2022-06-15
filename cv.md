@@ -62,7 +62,7 @@ Below is an abbreviated version of my CV. Please <a href="https://ka-chang.githu
 </p>
 ### Education
 <p>
-PhD in Education Policy, Organizations, and Leadership, *Expected 2023*
+	PhD in Education Policy, Organizations, and Leadership, <i>Expected 2023</i>
 <br>
 University of Washington, College of Education
 </p><p>
@@ -147,6 +147,7 @@ University of Washington, Information Technology
 </p></p></p>
 
 ### Conference Presentations (Selected)
+
 <p>
 <b>Chang, K.</b> & Koebele, E. (2022, April). <i>From School Choice to Sage Grouse: What State Legislators’ Policy Narratives Tell Us about Policy Outcomes.</i> Paper presented to the annual meeting of the Midwest Political Science Association, Chicago, IL.
 <p>
