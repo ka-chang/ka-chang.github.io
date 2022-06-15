@@ -146,7 +146,7 @@ University of Washington, Information Technology
 <br><a href="https://www.washington.edu/uwit/divisions/as/aca/" target=_blank>Academic Experience, Design, and Delivery</a>
 </p></p></p>
 
-### Conference Presentations (Selected)
+<h3> Conference Presentations (Selected)</h3>
 
 <p></p>
 <b>Chang, K.</b> & Koebele, E. (2022, April). <i>From School Choice to Sage Grouse: What State Legislators’ Policy Narratives Tell Us about Policy Outcomes.</i> Paper presented to the annual meeting of the Midwest Political Science Association, Chicago, IL.
