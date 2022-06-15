@@ -23,7 +23,9 @@ Published and in review article manuscripts are available upon request.
 <p style="line-height:2;">Public education and public housing partnerships have grown in popularity; yet, the relationship between public education and public housing is mixed in the existing literature. Research often focuses on student outcomes exclusively, neglecting to investigate the ways multiple policy systems can impact student experiences. We examine the spatial relationship between public education and public housing in Seattle, Washington. This paper asks: 1.) What type of public schools do students living in public housing attend?; and 2.) How do the systems of public housing and public schooling distribute resources across schools? To answer these questions, we create a novel, critically informed multidimensional systems-level index and implement it using publicly available data. Findings reveal that students who live in public housing have access to schools with lower student-teacher ratios and a higher percentage of teachers of color. These findings reveal trends pointing towards public resource equality, which we contextualize in discussions alongside of educational equity.</p>
 </details>
 
-### Policy Reports 
+### Policy Reports and Working White Papers
+
+Sun, M., Candelaria, C., Knight, D., LeClair, Z., Kabourek, S., & **Chang, K.** (2022). The Effects and Local Implementation of School Finance Reforms on Teacher Salary, Hiring and Turnover. (EdWorkingPaper: 22-585). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/5jgs-gx39](https://doi.org/10.26300/5jgs-gx39).
 
 **Chang, K.** & Sun, M. (2020). Data Equity in Collection, Analytics, and Reporting. Seattle, WA: University of Washington. [Report for the Bill and Melinda Gates Foundation].
 
