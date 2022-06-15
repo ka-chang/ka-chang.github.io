@@ -62,7 +62,7 @@ Below is an abbreviated version of my CV. Please <a href="https://ka-chang.githu
 </p>
 ### Education
 <p>
-PhD in Education Policy, Organizations, and Leadership, Expected 2023
+PhD in Education Policy, Organizations, and Leadership, *Expected 2023*
 <br>
 University of Washington, College of Education
 </p><p>
@@ -120,6 +120,7 @@ BA in Liberal Studies, 2008
 </div>
 
 ### Professional Experience (Selected)
+
 <p>
 1/2022 - 6/2022: Policy Consultant
 <br>
