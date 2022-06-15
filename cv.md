@@ -148,7 +148,6 @@ University of Washington, Information Technology
 
 ### Conference Presentations (Selected)
 
-<p>
 <b>Chang, K.</b> & Koebele, E. (2022, April). <i>From School Choice to Sage Grouse: What State Legislators’ Policy Narratives Tell Us about Policy Outcomes.</i> Paper presented to the annual meeting of the Midwest Political Science Association, Chicago, IL.
 <p>
 <b>Chang, K.</b> (2022, April). <i>New Approaches to Old Political Problems: Fairness in U.S. Redistricting and Equity in Education Finance.</i> Talk presented to the University of Michigan’s Michigan Institute for Data Science 2022 Future Leaders Summit, Ann Arbor, MI.
