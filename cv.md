@@ -65,6 +65,8 @@ Below is an abbreviated version of my CV. Please <a href="https://ka-chang.githu
 	PhD in Education Policy, Organizations, and Leadership, <i>Expected 2023</i>
 <br>
 University of Washington, College of Education
+<br>
+<i>Methods Concentration</i>: <a href="https://csss.uw.edu/academics/phd-tracks" target=_blank>Social Statistics and Quantiative Social Science</a>
 </p><p>
 MPA in Social Policy, 2022
 <br>University of Washington, Evans School of Public Policy and Governance
@@ -146,9 +148,12 @@ University of Washington, Information Technology
 <br><a href="https://www.washington.edu/uwit/divisions/as/aca/" target=_blank>Academic Experience, Design, and Delivery</a>
 </p></p></p>
 
-<h3> Conference Presentations (Selected)</h3>
+<h3> Professional Presentations (Selected)</h3>
 
 <p></p>
+&#42;Ahmed, R. & &#42;Chang, K. (2022, September). <i>Bridging the Gap Between Computational Tools and User Adoption for Social Good: A Case Study in Political Redistricting Problems.</i> Talk invited to the University of Washington eScience Learning and Doing Data for Good Conference, Seattle, WA. [&#42; denotes equal authorship]
+<p>
+
 <b>Chang, K.</b> & Koebele, E. (2022, April). <i>From School Choice to Sage Grouse: What State Legislators’ Policy Narratives Tell Us about Policy Outcomes.</i> Paper presented to the annual meeting of the Midwest Political Science Association, Chicago, IL.
 <p>
 <b>Chang, K.</b> (2022, April). <i>New Approaches to Old Political Problems: Fairness in U.S. Redistricting and Equity in Education Finance.</i> Talk presented to the University of Michigan’s Michigan Institute for Data Science 2022 Future Leaders Summit, Ann Arbor, MI.
