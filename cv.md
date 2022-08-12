@@ -151,11 +151,11 @@ University of Washington, Information Technology
 <h3> Professional Presentations (Selected)</h3>
 <p><!-- Line break for paragraph spacing--></p>
 <p>
-&#42;Ahmed, R. & <b>&#42;Chang, K.</b> (2022, September). <i>Bridging the Gap Between Computational Tools and User Adoption for Social Good: A Case Study in Political Redistricting Problems.</i> Talk invited to the University of Washington's eScience Institute 2022 Learning and Doing Data for Good Conference, Seattle, WA. [&#42; denotes equal authorship, authors listed alphabetically]
+&#42;Ahmed, R. & <b>&#42;Chang, K.</b> (2022, September). <i>Bridging the Gap Between Computational Tools and User Adoption for Social Good: A Case Study in Political Redistricting Problems.</i> Talk invited to the University of Washington's eScience Institute Learning and Doing Data for Good Conference, Seattle, WA. [&#42; denotes equal authorship, authors listed alphabetically]
 <p>
 <b>Chang, K.</b> & Koebele, E. (2022, April). <i>From School Choice to Sage Grouse: What State Legislators’ Policy Narratives Tell Us about Policy Outcomes.</i> Paper presented to the annual meeting of the Midwest Political Science Association, Chicago, IL.
 <p>
-<b>Chang, K.</b> (2022, April). <i>New Approaches to Old Political Problems: Fairness in U.S. Redistricting and Equity in Education Finance.</i> Talk presented to the University of Michigan’s Michigan Institute for Data Science 2022 Future Leaders Summit, Ann Arbor, MI.
+<b>Chang, K.</b> (2022, April). <i>New Approaches to Old Political Problems: Fairness in U.S. Redistricting and Equity in Education Finance.</i> Talk presented to the University of Michigan’s Michigan Institute for Data Science Future Leaders Summit, Ann Arbor, MI.
 <p>
 <b>Chang, K.</b> (2022, March). <i>Race and School Finance Reform in Washington State, 1993-2016.</i> Paper accepted to the annual meeting of the Association for Public Policy Analysis and Management, Austin, TX. [Declined due to COVID-19 disruptions.]
 <p>
