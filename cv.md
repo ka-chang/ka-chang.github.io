@@ -85,31 +85,31 @@ BA in Liberal Studies, 2008
 		<div class="rg-barchart-row" id="barchart-row-0">
 			<div class="rg-barchart-row-name">R</div>
 			<div class="rg-barchart-row-bar">
-				<span class="rg-barchart-row-bar-inner" style="width: 80%"></span>
+				<span class="rg-barchart-row-bar-inner" style="width: 85%"></span>
 			</div>
 		</div>
 		<div class="rg-barchart-row" id="barchart-row-1">
 			<div class="rg-barchart-row-name">Python</div>
 			<div class="rg-barchart-row-bar">
-				<span class="rg-barchart-row-bar-inner" style="width: 70%"></span>
+				<span class="rg-barchart-row-bar-inner" style="width: 75%"></span>
 			</div>
 		</div>
 		<div class="rg-barchart-row" id="barchart-row-1">
 			<div class="rg-barchart-row-name">HTML/CSS</div>
 			<div class="rg-barchart-row-bar">
-				<span class="rg-barchart-row-bar-inner" style="width: 60%"></span>
+				<span class="rg-barchart-row-bar-inner" style="width: 65%"></span>
 			</div>
 		</div>
 		<div class="rg-barchart-row" id="barchart-row-1">
 			<div class="rg-barchart-row-name">Shell</div>
 			<div class="rg-barchart-row-bar">
-				<span class="rg-barchart-row-bar-inner" style="width: 60%"></span>
+				<span class="rg-barchart-row-bar-inner" style="width: 65%"></span>
 			</div>
 		</div>
 		<div class="rg-barchart-row" id="barchart-row-1">
 			<div class="rg-barchart-row-name">SQL</div>
 			<div class="rg-barchart-row-bar">
-				<span class="rg-barchart-row-bar-inner" style="width: 60%"></span>
+				<span class="rg-barchart-row-bar-inner" style="width: 65%"></span>
 			</div>
 		</div>
 		<div class="rg-barchart-row" id="barchart-row-2">
