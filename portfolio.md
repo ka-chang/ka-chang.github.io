@@ -19,19 +19,6 @@ The following Portfolio page includes original work that I am either leading or 
   
 </details>
 
-### <img src="https://github.com/ka-chang/OpenTranscription/raw/main/docs/images/opentranscription_logo.png" width="100">OpenTranscription
-
-A friendly open source speech-to-text transcriber built for everyone. <a href="https://github.com/ka-chang/OpenTranscription" target=_blank>OpenTranscription</a> uses an open source speech-to-text engine to process audio files to text, with no fees and minimal technical expertise required.
-
-<details>
-<summary>Click for more details</summary>
-  
-<p style="line-height:2;">OpenTranscription contains a graphical user interface that allows users of all technical backgrounds to use an open source speech-to-text engine to automatically transcribe audio files to text. OpenTranscription's core user base are qualitative researchers who consider paid services such as Rev to transcribe interview and focus group data, but may have limited resources to process transcripts at scale and within budget. </p>
-  
-<p style="line-height:2;">I am the lead developer and UX designer for OpenTranscription's front and backend development. OpenTranscription is currently in the design phase and conducting user interviews.</p>
-  
-</details>
-
 ### Research
 
 My research agenda is composed of three strands of inquiry: the politics of education reform, the politics of race in education policymaking, and cross-systems interactions between social and education policy. Many of my current projects are focused on state legislative politics, school finance reform, and the intersection of public housing and public education. I primarily use quantitative and computational social science methods in my research and various projects.
