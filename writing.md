@@ -25,7 +25,7 @@ Published and in review article manuscripts are available upon request.
 
 ### Policy Reports and White Papers
 
-Evans, K., & **Chang, K. T.** (2022). Connecticut Redistricting Analysis. arXiv preprint arXiv:2209.00076. https://doi.org/10.48550/arXiv.2209.00076
+Evans, K., & **Chang, K. T.** (2022). Connecticut Redistricting Analysis. arXiv preprint arXiv:2209.00076. [https://doi.org/10.48550/arXiv.2209.00076](https://doi.org/10.48550/arXiv.2209.00076).
 
 Sun, M., Candelaria, C., Knight, D., LeClair, Z., Kabourek, S., & **Chang, K.** (2022). The Effects and Local Implementation of School Finance Reforms on Teacher Salary, Hiring and Turnover. (EdWorkingPaper: 22-585). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/5jgs-gx39](https://doi.org/10.26300/5jgs-gx39).
 
