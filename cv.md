@@ -62,7 +62,7 @@ Below is an abbreviated version of my CV. Please <a href="https://ka-chang.githu
 </p>
 ### Education
 <p>
-	PhD in Education Policy, Organizations, and Leadership, <i>Expected 2023</i>
+	PhD in Education Policy, Organizations, and Leadership, <i>Expected 2025</i>
 <br>
 University of Washington, College of Education
 <br>
@@ -85,19 +85,19 @@ BA in Liberal Studies, 2008
 		<div class="rg-barchart-row" id="barchart-row-0">
 			<div class="rg-barchart-row-name">R</div>
 			<div class="rg-barchart-row-bar">
-				<span class="rg-barchart-row-bar-inner" style="width: 85%"></span>
+				<span class="rg-barchart-row-bar-inner" style="width: 90%"></span>
 			</div>
 		</div>
 		<div class="rg-barchart-row" id="barchart-row-1">
 			<div class="rg-barchart-row-name">Python</div>
 			<div class="rg-barchart-row-bar">
-				<span class="rg-barchart-row-bar-inner" style="width: 75%"></span>
+				<span class="rg-barchart-row-bar-inner" style="width: 80%"></span>
 			</div>
 		</div>
 		<div class="rg-barchart-row" id="barchart-row-1">
-			<div class="rg-barchart-row-name">HTML/CSS</div>
+			<div class="rg-barchart-row-name">SQL</div>
 			<div class="rg-barchart-row-bar">
-				<span class="rg-barchart-row-bar-inner" style="width: 65%"></span>
+				<span class="rg-barchart-row-bar-inner" style="width: 75%"></span>
 			</div>
 		</div>
 		<div class="rg-barchart-row" id="barchart-row-1">
@@ -107,7 +107,7 @@ BA in Liberal Studies, 2008
 			</div>
 		</div>
 		<div class="rg-barchart-row" id="barchart-row-1">
-			<div class="rg-barchart-row-name">SQL</div>
+			<div class="rg-barchart-row-name">HTML/CSS</div>
 			<div class="rg-barchart-row-bar">
 				<span class="rg-barchart-row-bar-inner" style="width: 65%"></span>
 			</div>
@@ -115,14 +115,19 @@ BA in Liberal Studies, 2008
 		<div class="rg-barchart-row" id="barchart-row-2">
 			<div class="rg-barchart-row-name">Stata</div>
 			<div class="rg-barchart-row-bar">
-				<span class="rg-barchart-row-bar-inner" style="width: 50%"></span>
+				<span class="rg-barchart-row-bar-inner" style="width: 60%"></span>
 			</div>
 		</div>
 	</div>
 </div>
 
 ### Professional Experience (Selected)
-
+<p>
+2022 - Present: Senior Technical Program Manager
+<br>
+Microsoft 
+<br>
+<a href="https://datacenters.microsoft.com/" target=_blank>Cloud Operations + Innovation</a>
 <p>
 1/2022 - 6/2022: Policy Consultant
 <br>
@@ -136,7 +141,7 @@ University of Washington, eScience Institute
 <br>
 <i>Project</i>: <a href="https://uwescience.github.io/DSSG2021-redistricting-website/" target=_blank>Developing Ensemble Methods for Initial Districting Plan Evaluation</a>
 <p>
-2019 - Present: Graduate Research Assistant
+2019 - 2022: Graduate Research Assistant
 <br>
 University of Washington, College of Education 
 <br>
